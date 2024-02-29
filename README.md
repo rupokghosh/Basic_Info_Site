@@ -1,2 +1,3 @@
-# basicinfosite
-Basic Info Site as a nodejs template project. 
+# Basic Information Site
+
+A basic information site to host a server and do basic routing. 
